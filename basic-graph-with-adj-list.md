@@ -1,5 +1,5 @@
 
-# Graph Implementation in C++
+# Graph Implementation with adjacency list in C++
 
 This document provides a simple implementation of a graph using an adjacency list in C++. It includes methods to add edges and print the graph, ensuring no duplicate edges are added. This graph uis undirected and equally(1) weighted.
 
