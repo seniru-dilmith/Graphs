@@ -42,8 +42,7 @@ void Graph::addEdge(int v, int w) {
 
 void Graph::printGraph() {
     for (int v = 0; v < V; ++v) {
-        cout << "Adjacency list of vertex " << v << "
- head ";
+        cout << "Adjacency list of vertex " << v << "\nhead ";;
         for (auto x : adj[v])
             cout << "-> " << x;
         cout << endl;
