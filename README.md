@@ -10,7 +10,7 @@ This repository contains various graph algorithms implemented and explained in d
 3. [BFS for Graphs](BFS_For_Graphs.md)
 4. [DFS for Graphs](DFS_For_Graphs.md)
 5. [Kruskal's for MST](Kruskals-for-MST.md)
-6. [Prim's for MST](Prims-For-MST.md)
+6. [Prim's for MST](Prims-for-MST.md)
 7. [Bellman-Ford for SSSP](Bellman-Ford-for-SSSP.md)
 8. [Dijkstra for SSSP](Dijkstra-for-SSSP.md)
 
