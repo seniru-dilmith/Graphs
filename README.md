@@ -7,7 +7,7 @@ This repository contains various graph algorithms implemented and explained in d
 
 1. [Basic Graph with Adjacency List](basic-graph-with-adj-list.md)
 2. [Basic Graph with Adjacency Matrix](basic-graph-with-adj-matrix.md)
-3. [Bellman-Ford for MST](Bellman-Ford-for-MST.md)
+3. [Bellman-Ford for SSSP](Bellman-Ford-for-SSSP.md)
 4. [DFS for Graphs](DFS_for_Graphs.md)
 5. [Dijkstra for MST](Dijkstra-for-MST.md)
 
